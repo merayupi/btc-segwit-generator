@@ -1,0 +1,26 @@
+{
+  "name": "btc-segwit-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merayupi/btc-segwit-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip32": "^4.0.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.0",
+    "tiny-secp256k1": "^2.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/merayupi/btc-segwit-generator/issues"
+  },
+  "homepage": "https://github.com/merayupi/btc-segwit-generator#readme"
+}
