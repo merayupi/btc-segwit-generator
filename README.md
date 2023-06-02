@@ -15,5 +15,5 @@ node index.js
 
 It will generate .csv file that contain generated address and private key
 
-base code is in tes.js
+base code in tes.js
 
